@@ -2221,3 +2221,3759 @@ preview song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590
 album: I Want It That Way
 artist(s): Landon Austin & Julia Sheer
 *****************************
+**********EVENT*********
+Name of the Venue: Times Union Center
+Venue Location: Albany
+Date of the Event: 2019-03-18T19:00:44
+*****************************
+**********EVENT*********
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-03-20T19:00:34
+*****************************
+**********EVENT*********
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-03-22T19:00:03
+*****************************
+**********EVENT*********
+Name of the Venue: Capitol One Arena
+Venue Location: Washington
+Date of the Event: 2019-03-25T19:00:46
+*****************************
+**********EVENT*********
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-03-26T19:00:53
+*****************************
+**********EVENT*********
+Name of the Venue: Quicken Loans Arena
+Venue Location: Cleveland
+Date of the Event: 2019-03-28T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: Mohegan Sun Arena
+Venue Location: Uncasville
+Date of the Event: 2019-03-30T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: Bell Centre
+Venue Location: Montréal
+Date of the Event: 2019-04-01T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-04-03T19:00:53
+*****************************
+**********EVENT*********
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-04-05T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-04-07T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-04-08T19:30:00
+*****************************
+**********EVENT*********
+Name of the Venue: Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-04-10T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Empire Polo Club
+Venue Location: Indio
+Date of the Event: 2019-04-12T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Enterprise Center
+Venue Location: Saint Louis
+Date of the Event: 2019-04-13T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio
+Date of the Event: 2019-04-14T19:00:29
+*****************************
+**********EVENT*********
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-04-15T03:30:00
+*****************************
+**********EVENT*********
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-04-17T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-04-20T23:59:00
+*****************************
+**********EVENT*********
+Name of the Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio
+Date of the Event: 2019-04-21T19:00:03
+*****************************
+**********EVENT*********
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-04-22T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Rogers Place
+Venue Location: Edmonton
+Date of the Event: 2019-04-25T19:00:16
+*****************************
+**********EVENT*********
+Name of the Venue: Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 2019-04-27T19:00:44
+*****************************
+**********EVENT*********
+Name of the Venue: Moda Center
+Venue Location: Portland
+Date of the Event: 2019-04-30T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: SAP Center
+Venue Location: San Jose
+Date of the Event: 2019-05-02T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-05-03T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: STAPLES Center
+Venue Location: Los Angeles
+Date of the Event: 2019-05-06T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2019-05-07T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-05-10T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: T-Mobile Arena
+Venue Location: Las Vegas
+Date of the Event: 2019-05-11T19:00:39
+*****************************
+**********EVENT*********
+Name of the Venue: Talking Stick Resort Arena
+Venue Location: Phoenix
+Date of the Event: 2019-05-14T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-05-17T19:00:26
+*****************************
+**********EVENT*********
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-05-19T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-05-21T19:00:49
+*****************************
+**********EVENT*********
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-05-23T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Smoothie King Center
+Venue Location: New Orleans
+Date of the Event: 2019-05-25T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-05-28T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-05-29T19:00:42
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-05-31T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-06-01T19:00:54
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-06-04T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-06-05T19:00:19
+*****************************
+**********EVENT*********
+Name of the Venue: Bridgestone Arena
+Venue Location: Nashville
+Date of the Event: 2019-06-07T19:00:31
+*****************************
+**********EVENT*********
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-06-08T19:00:12
+*****************************
+**********EVENT*********
+Name of the Venue: Spectrum Center
+Venue Location: Charlotte
+Date of the Event: 2019-06-10T19:00:43
+*****************************
+**********EVENT*********
+Name of the Venue: PPG Paints Arena
+Venue Location: Pittsburgh
+Date of the Event: 2019-06-12T19:00:18
+*****************************
+**********EVENT*********
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-06-14T19:00:49
+*****************************
+**********EVENT*********
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-06-15T19:00:28
+*****************************
+**********EVENT*********
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-06-18T19:00:58
+*****************************
+**********EVENT*********
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-06-19T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-06-21T19:00:04
+*****************************
+**********EVENT*********
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-06-22T19:00:41
+*****************************
+**********EVENT*********
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-06-24T19:00:19
+*****************************
+**********EVENT*********
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-06-26T19:00:13
+*****************************
+**********EVENT*********
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-06-29T19:00:25
+*****************************
+**********EVENT*********
+Name of the Venue: The Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-07-01T19:00:54
+*****************************
+**********EVENT*********
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-07-05T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Enterprise Center
+Venue Location: St. Louis
+Date of the Event: 2019-07-06T19:00:52
+*****************************
+**********EVENT*********
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-07-08T19:00:01
+*****************************
+**********EVENT*********
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-07-11T19:00:59
+*****************************
+**********EVENT*********
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-13T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-08-17T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-08-19T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-08-20T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-08-23T19:00:50
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-08-24T19:00:52
+*****************************
+**********EVENT*********
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-08-27T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-08-28T19:00:57
+*****************************
+**********EVENT*********
+Name of the Venue: Sportpaleis Antwerpen
+Venue Location: Antwerpen
+Date of the Event: 2019-08-30T19:00:59
+*****************************
+**********EVENT*********
+Name of the Venue: Lanxess Arena
+Venue Location: Köln
+Date of the Event: 2019-09-01T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: Stadthalle
+Venue Location: Vienna
+Date of the Event: 2019-09-03T19:00:56
+*****************************
+**********EVENT*********
+Name of the Venue: Barclaycard Arena
+Venue Location: Hamburg
+Date of the Event: 2019-09-05T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: O2 arena
+Venue Location: Praha 9
+Date of the Event: 2019-09-08T19:00:06
+*****************************
+**********EVENT*********
+Name of the Venue: Tauron Arena
+Venue Location: Kraków
+Date of the Event: 2019-09-09T19:00:36
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-09-11T19:00:55
+*****************************
+**********EVENT*********
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-14T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-15T19:00:12
+*****************************
+**********EVENT*********
+Name of the Venue: The SSE Hydro
+Venue Location: Glasgow
+Date of the Event: 2019-09-17T19:00:02
+*****************************
+**********EVENT*********
+Name of the Venue: FlyDSA Arena
+Venue Location: Sheffield
+Date of the Event: 2019-09-19T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-22T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-23T19:00:17
+*****************************
+**********EVENT*********
+Name of the Venue: Royal Arena
+Venue Location: Copenhagen
+Date of the Event: 2019-10-01T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Telenor Arena
+Venue Location: Oslo
+Date of the Event: 2019-10-03T19:00:26
+*****************************
+**********EVENT*********
+Name of the Venue: Hartwall Arena
+Venue Location: Hki
+Date of the Event: 2019-10-05T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: Ericsson Globe
+Venue Location: Stockholm
+Date of the Event: 2019-10-07T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Mercedes-Benz-Arena
+Venue Location: Berlin
+Date of the Event: 2019-10-10T19:00:43
+*****************************
+**********EVENT*********
+Name of the Venue: Hallenstadion
+Venue Location: Zürich
+Date of the Event: 2019-10-13T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Times Union Center
+Venue Location: Albany
+Date of the Event: 2019-03-18T19:00:44
+*****************************
+**********EVENT*********
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-03-20T19:00:34
+*****************************
+**********EVENT*********
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-03-22T19:00:03
+*****************************
+**********EVENT*********
+Name of the Venue: Capitol One Arena
+Venue Location: Washington
+Date of the Event: 2019-03-25T19:00:46
+*****************************
+**********EVENT*********
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-03-26T19:00:53
+*****************************
+**********EVENT*********
+Name of the Venue: Quicken Loans Arena
+Venue Location: Cleveland
+Date of the Event: 2019-03-28T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: Mohegan Sun Arena
+Venue Location: Uncasville
+Date of the Event: 2019-03-30T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: Bell Centre
+Venue Location: Montréal
+Date of the Event: 2019-04-01T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-04-03T19:00:53
+*****************************
+**********EVENT*********
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-04-05T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-04-07T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-04-08T19:30:00
+*****************************
+**********EVENT*********
+Name of the Venue: Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-04-10T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Empire Polo Club
+Venue Location: Indio
+Date of the Event: 2019-04-12T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Enterprise Center
+Venue Location: Saint Louis
+Date of the Event: 2019-04-13T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio
+Date of the Event: 2019-04-14T19:00:29
+*****************************
+**********EVENT*********
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-04-15T03:30:00
+*****************************
+**********EVENT*********
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-04-17T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-04-20T23:59:00
+*****************************
+**********EVENT*********
+Name of the Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio
+Date of the Event: 2019-04-21T19:00:03
+*****************************
+**********EVENT*********
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-04-22T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Rogers Place
+Venue Location: Edmonton
+Date of the Event: 2019-04-25T19:00:16
+*****************************
+**********EVENT*********
+Name of the Venue: Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 2019-04-27T19:00:44
+*****************************
+**********EVENT*********
+Name of the Venue: Moda Center
+Venue Location: Portland
+Date of the Event: 2019-04-30T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: SAP Center
+Venue Location: San Jose
+Date of the Event: 2019-05-02T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-05-03T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: STAPLES Center
+Venue Location: Los Angeles
+Date of the Event: 2019-05-06T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2019-05-07T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-05-10T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: T-Mobile Arena
+Venue Location: Las Vegas
+Date of the Event: 2019-05-11T19:00:39
+*****************************
+**********EVENT*********
+Name of the Venue: Talking Stick Resort Arena
+Venue Location: Phoenix
+Date of the Event: 2019-05-14T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-05-17T19:00:26
+*****************************
+**********EVENT*********
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-05-19T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-05-21T19:00:49
+*****************************
+**********EVENT*********
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-05-23T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Smoothie King Center
+Venue Location: New Orleans
+Date of the Event: 2019-05-25T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-05-28T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-05-29T19:00:42
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-05-31T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-06-01T19:00:54
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-06-04T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-06-05T19:00:19
+*****************************
+**********EVENT*********
+Name of the Venue: Bridgestone Arena
+Venue Location: Nashville
+Date of the Event: 2019-06-07T19:00:31
+*****************************
+**********EVENT*********
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-06-08T19:00:12
+*****************************
+**********EVENT*********
+Name of the Venue: Spectrum Center
+Venue Location: Charlotte
+Date of the Event: 2019-06-10T19:00:43
+*****************************
+**********EVENT*********
+Name of the Venue: PPG Paints Arena
+Venue Location: Pittsburgh
+Date of the Event: 2019-06-12T19:00:18
+*****************************
+**********EVENT*********
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-06-14T19:00:49
+*****************************
+**********EVENT*********
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-06-15T19:00:28
+*****************************
+**********EVENT*********
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-06-18T19:00:58
+*****************************
+**********EVENT*********
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-06-19T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-06-21T19:00:04
+*****************************
+**********EVENT*********
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-06-22T19:00:41
+*****************************
+**********EVENT*********
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-06-24T19:00:19
+*****************************
+**********EVENT*********
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-06-26T19:00:13
+*****************************
+**********EVENT*********
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-06-29T19:00:25
+*****************************
+**********EVENT*********
+Name of the Venue: The Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-07-01T19:00:54
+*****************************
+**********EVENT*********
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-07-05T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Enterprise Center
+Venue Location: St. Louis
+Date of the Event: 2019-07-06T19:00:52
+*****************************
+**********EVENT*********
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-07-08T19:00:01
+*****************************
+**********EVENT*********
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-07-11T19:00:59
+*****************************
+**********EVENT*********
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-13T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-08-17T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-08-19T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-08-20T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-08-23T19:00:50
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-08-24T19:00:52
+*****************************
+**********EVENT*********
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-08-27T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-08-28T19:00:57
+*****************************
+**********EVENT*********
+Name of the Venue: Sportpaleis Antwerpen
+Venue Location: Antwerpen
+Date of the Event: 2019-08-30T19:00:59
+*****************************
+**********EVENT*********
+Name of the Venue: Lanxess Arena
+Venue Location: Köln
+Date of the Event: 2019-09-01T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: Stadthalle
+Venue Location: Vienna
+Date of the Event: 2019-09-03T19:00:56
+*****************************
+**********EVENT*********
+Name of the Venue: Barclaycard Arena
+Venue Location: Hamburg
+Date of the Event: 2019-09-05T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: O2 arena
+Venue Location: Praha 9
+Date of the Event: 2019-09-08T19:00:06
+*****************************
+**********EVENT*********
+Name of the Venue: Tauron Arena
+Venue Location: Kraków
+Date of the Event: 2019-09-09T19:00:36
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-09-11T19:00:55
+*****************************
+**********EVENT*********
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-14T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-15T19:00:12
+*****************************
+**********EVENT*********
+Name of the Venue: The SSE Hydro
+Venue Location: Glasgow
+Date of the Event: 2019-09-17T19:00:02
+*****************************
+**********EVENT*********
+Name of the Venue: FlyDSA Arena
+Venue Location: Sheffield
+Date of the Event: 2019-09-19T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-22T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-23T19:00:17
+*****************************
+**********EVENT*********
+Name of the Venue: Royal Arena
+Venue Location: Copenhagen
+Date of the Event: 2019-10-01T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Telenor Arena
+Venue Location: Oslo
+Date of the Event: 2019-10-03T19:00:26
+*****************************
+**********EVENT*********
+Name of the Venue: Hartwall Arena
+Venue Location: Hki
+Date of the Event: 2019-10-05T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: Ericsson Globe
+Venue Location: Stockholm
+Date of the Event: 2019-10-07T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Mercedes-Benz-Arena
+Venue Location: Berlin
+Date of the Event: 2019-10-10T19:00:43
+*****************************
+**********EVENT*********
+Name of the Venue: Hallenstadion
+Venue Location: Zürich
+Date of the Event: 2019-10-13T19:00:30
+*****************************
+**********EVENT*********
+**********EVENT*********
+Name of the Venue: Franklin Music Hall
+Venue Location: Philadelphia
+Date of the Event: 2019-02-23T19:00:24
+*****************************
+**********EVENT*********
+Name of the Venue: Tabernacle
+Venue Location: Atlanta
+Date of the Event: 2019-02-27T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: The Bomb Factory
+Venue Location: Dallas
+Date of the Event: 2019-03-03T19:00:08
+*****************************
+**********EVENT*********
+Name of the Venue: Diamond ballroom
+Venue Location: Oklahoma City
+Date of the Event: 2019-03-04T19:00:38
+*****************************
+**********EVENT*********
+Name of the Venue: Mesa Amphitheatre
+Venue Location: Mesa
+Date of the Event: 2019-03-06T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: Valley View Casino Center
+Venue Location: San Diego
+Date of the Event: 2019-03-07T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Bill Graham Civic Auditorium
+Venue Location: Sf
+Date of the Event: 2019-03-09T19:00:02
+*****************************
+**********EVENT*********
+Name of the Venue: Reno Events Center
+Venue Location: Reno
+Date of the Event: 2019-03-10T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: Times Union Center
+Venue Location: Albany
+Date of the Event: 2019-03-18T19:00:44
+*****************************
+**********EVENT*********
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-03-20T19:00:34
+*****************************
+**********EVENT*********
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-03-22T19:00:03
+*****************************
+**********EVENT*********
+Name of the Venue: Capitol One Arena
+Venue Location: Washington
+Date of the Event: 2019-03-25T19:00:46
+*****************************
+**********EVENT*********
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-03-26T19:00:53
+*****************************
+**********EVENT*********
+Name of the Venue: Quicken Loans Arena
+Venue Location: Cleveland
+Date of the Event: 2019-03-28T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: Mohegan Sun Arena
+Venue Location: Uncasville
+Date of the Event: 2019-03-30T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: Bell Centre
+Venue Location: Montréal
+Date of the Event: 2019-04-01T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-04-03T19:00:53
+*****************************
+**********EVENT*********
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-04-05T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-04-07T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-04-08T19:30:00
+*****************************
+**********EVENT*********
+Name of the Venue: Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-04-10T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Empire Polo Club
+Venue Location: Indio
+Date of the Event: 2019-04-12T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Enterprise Center
+Venue Location: Saint Louis
+Date of the Event: 2019-04-13T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio
+Date of the Event: 2019-04-14T19:00:29
+*****************************
+**********EVENT*********
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-04-15T03:30:00
+*****************************
+**********EVENT*********
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-04-17T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-04-20T23:59:00
+*****************************
+**********EVENT*********
+Name of the Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio
+Date of the Event: 2019-04-21T19:00:03
+*****************************
+**********EVENT*********
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-04-22T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Rogers Place
+Venue Location: Edmonton
+Date of the Event: 2019-04-25T19:00:16
+*****************************
+**********EVENT*********
+Name of the Venue: Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 2019-04-27T19:00:44
+*****************************
+**********EVENT*********
+Name of the Venue: Moda Center
+Venue Location: Portland
+Date of the Event: 2019-04-30T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: SAP Center
+Venue Location: San Jose
+Date of the Event: 2019-05-02T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-05-03T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: STAPLES Center
+Venue Location: Los Angeles
+Date of the Event: 2019-05-06T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2019-05-07T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-05-10T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: T-Mobile Arena
+Venue Location: Las Vegas
+Date of the Event: 2019-05-11T19:00:39
+*****************************
+**********EVENT*********
+Name of the Venue: Talking Stick Resort Arena
+Venue Location: Phoenix
+Date of the Event: 2019-05-14T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-05-17T19:00:26
+*****************************
+**********EVENT*********
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-05-19T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-05-21T19:00:49
+*****************************
+**********EVENT*********
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-05-23T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Smoothie King Center
+Venue Location: New Orleans
+Date of the Event: 2019-05-25T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-05-28T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-05-29T19:00:42
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-05-31T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-06-01T19:00:54
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-06-04T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-06-05T19:00:19
+*****************************
+**********EVENT*********
+Name of the Venue: Bridgestone Arena
+Venue Location: Nashville
+Date of the Event: 2019-06-07T19:00:31
+*****************************
+**********EVENT*********
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-06-08T19:00:12
+*****************************
+**********EVENT*********
+Name of the Venue: Spectrum Center
+Venue Location: Charlotte
+Date of the Event: 2019-06-10T19:00:43
+*****************************
+**********EVENT*********
+Name of the Venue: PPG Paints Arena
+Venue Location: Pittsburgh
+Date of the Event: 2019-06-12T19:00:18
+*****************************
+**********EVENT*********
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-06-14T19:00:49
+*****************************
+**********EVENT*********
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-06-15T19:00:28
+*****************************
+**********EVENT*********
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-06-18T19:00:58
+*****************************
+**********EVENT*********
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-06-19T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-06-21T19:00:04
+*****************************
+**********EVENT*********
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-06-22T19:00:41
+*****************************
+**********EVENT*********
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-06-24T19:00:19
+*****************************
+**********EVENT*********
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-06-26T19:00:13
+*****************************
+**********EVENT*********
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-06-29T19:00:25
+*****************************
+**********EVENT*********
+Name of the Venue: The Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-07-01T19:00:54
+*****************************
+**********EVENT*********
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-07-05T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Enterprise Center
+Venue Location: St. Louis
+Date of the Event: 2019-07-06T19:00:52
+*****************************
+**********EVENT*********
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-07-08T19:00:01
+*****************************
+**********EVENT*********
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-07-11T19:00:59
+*****************************
+**********EVENT*********
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-13T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-08-17T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-08-19T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-08-20T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-08-23T19:00:50
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-08-24T19:00:52
+*****************************
+**********EVENT*********
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-08-27T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-08-28T19:00:57
+*****************************
+**********EVENT*********
+Name of the Venue: Sportpaleis Antwerpen
+Venue Location: Antwerpen
+Date of the Event: 2019-08-30T19:00:59
+*****************************
+**********EVENT*********
+Name of the Venue: Lanxess Arena
+Venue Location: Köln
+Date of the Event: 2019-09-01T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: Stadthalle
+Venue Location: Vienna
+Date of the Event: 2019-09-03T19:00:56
+*****************************
+**********EVENT*********
+Name of the Venue: Barclaycard Arena
+Venue Location: Hamburg
+Date of the Event: 2019-09-05T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: O2 arena
+Venue Location: Praha 9
+Date of the Event: 2019-09-08T19:00:06
+*****************************
+**********EVENT*********
+Name of the Venue: Tauron Arena
+Venue Location: Kraków
+Date of the Event: 2019-09-09T19:00:36
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-09-11T19:00:55
+*****************************
+**********EVENT*********
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-14T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-15T19:00:12
+*****************************
+**********EVENT*********
+Name of the Venue: The SSE Hydro
+Venue Location: Glasgow
+Date of the Event: 2019-09-17T19:00:02
+*****************************
+**********EVENT*********
+Name of the Venue: FlyDSA Arena
+Venue Location: Sheffield
+Date of the Event: 2019-09-19T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-22T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-23T19:00:17
+*****************************
+**********EVENT*********
+Name of the Venue: Royal Arena
+Venue Location: Copenhagen
+Date of the Event: 2019-10-01T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Telenor Arena
+Venue Location: Oslo
+Date of the Event: 2019-10-03T19:00:26
+*****************************
+**********EVENT*********
+Name of the Venue: Hartwall Arena
+Venue Location: Hki
+Date of the Event: 2019-10-05T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: Ericsson Globe
+Venue Location: Stockholm
+Date of the Event: 2019-10-07T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Mercedes-Benz-Arena
+Venue Location: Berlin
+Date of the Event: 2019-10-10T19:00:43
+*****************************
+**********EVENT*********
+Name of the Venue: Hallenstadion
+Venue Location: Zürich
+Date of the Event: 2019-10-13T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Franklin Music Hall
+Venue Location: Philadelphia
+Date of the Event: 2019-02-23T19:00:24
+*****************************
+**********EVENT*********
+Name of the Venue: Tabernacle
+Venue Location: Atlanta
+Date of the Event: 2019-02-27T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: The Bomb Factory
+Venue Location: Dallas
+Date of the Event: 2019-03-03T19:00:08
+*****************************
+**********EVENT*********
+Name of the Venue: Diamond ballroom
+Venue Location: Oklahoma City
+Date of the Event: 2019-03-04T19:00:38
+*****************************
+**********EVENT*********
+Name of the Venue: Mesa Amphitheatre
+Venue Location: Mesa
+Date of the Event: 2019-03-06T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: Valley View Casino Center
+Venue Location: San Diego
+Date of the Event: 2019-03-07T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Bill Graham Civic Auditorium
+Venue Location: Sf
+Date of the Event: 2019-03-09T19:00:02
+*****************************
+**********EVENT*********
+Name of the Venue: Reno Events Center
+Venue Location: Reno
+Date of the Event: 2019-03-10T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: The Fillmore (Kids Matinee)
+Venue Location: San Francisco
+Date of the Event: 2019-02-23T15:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: The Fillmore
+Venue Location: San Francisco
+Date of the Event: 2019-02-23T21:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: WOW Hall
+Venue Location: Eugene
+Date of the Event: 2019-03-14T20:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Wonder Ballroom
+Venue Location: Portland
+Date of the Event: 2019-03-15T21:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: The Crocodile
+Venue Location: Seattle
+Date of the Event: 2019-03-16T21:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: WWG Grass After Dark (The Plaza Bar)
+Venue Location: Squaw Valley
+Date of the Event: 2019-03-30T23:00:10
+*****************************
+**********EVENT*********
+Name of the Venue: Tahoe WinterWonderGrass Music & Brew Festival
+Venue Location: Squaw Valley
+Date of the Event: 2019-03-31T17:50:45
+*****************************
+**********EVENT*********
+Name of the Venue: Wildflower Music Festival
+Venue Location: Chico
+Date of the Event: 2019-05-04T18:00:56
+*****************************
+**********EVENT*********
+Name of the Venue: Summer Camp Music Festival
+Venue Location: Chillicothe
+Date of the Event: 2019-05-24T19:00:02
+*****************************
+**********EVENT*********
+Name of the Venue: Summer Camp Music Festival
+Venue Location: Chillicothe
+Date of the Event: 2019-05-25T19:00:56
+*****************************
+**********EVENT*********
+Name of the Venue: Summer Camp Music Festival
+Venue Location: Chillicothe
+Date of the Event: 2019-05-26T19:00:18
+*****************************
+**********EVENT*********
+Name of the Venue: High Sierra Music Festival (July 4-7)
+Venue Location: Quincy
+Date of the Event: 2019-07-04T12:00:00
+*****************************
+**********SONG*********
+0
+song name: Stay Fly - Explicit Album Version
+preview song: https://p.scdn.co/mp3-preview/4732cd108f1f83fde15822e54261f3f648d443fe?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Most Known Unknown (Explicit)
+artist(s): Three 6 Mafia
+*****************************
+**********SONG*********
+1
+song name: Rep Yo City
+preview song: https://p.scdn.co/mp3-preview/c4526ba2528df6d429a0fa816bee9e846f4aae80?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Kings Of Crunk
+artist(s): 8Ball
+*****************************
+**********SONG*********
+2
+song name: Just Like Candy
+preview song: https://p.scdn.co/mp3-preview/5811c0ac34855ca0aa96f07468a34445294349cf?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: We Are The South (greatest Hits)
+artist(s): MJG
+*****************************
+**********SONG*********
+3
+song name: Stay Fly - Explicit Album Version
+preview song: https://p.scdn.co/mp3-preview/3e93b3f76d88b450d21fc69f6592985cdbe960f4?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Stay Fly (4 Pack)
+artist(s): Three 6 Mafia
+*****************************
+**********SONG*********
+4
+song name: Sho Nugg
+preview song: https://p.scdn.co/mp3-preview/3c29ae7fe0ac7140fa0534487a1c53538881ba6f?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Piece Of Mind
+artist(s): Tela
+*****************************
+**********SONG*********
+5
+song name: You Don't Want Drama
+preview song: https://p.scdn.co/mp3-preview/97c07d53e336aae7d841863e31811c6da9cda89a?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Living Legends
+artist(s): 8Ball & MJG
+*****************************
+**********SONG*********
+6
+song name: Space Age Pimpin'
+preview song: https://p.scdn.co/mp3-preview/8d9912752ac3e3762f58e6cc17c16c5dbf61203c?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: On Top Of The World
+artist(s): 8Ball & MJG
+*****************************
+**********SONG*********
+7
+song name: Take a Picture (Bonus Track)
+preview song: https://p.scdn.co/mp3-preview/6e96bd7c2c3dccc95c33916b7aa5ecfbe9b60904?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Classic Pimpin' (live)
+artist(s): 8Ball & MJG
+*****************************
+**********SONG*********
+8
+song name: Angry
+preview song: https://p.scdn.co/mp3-preview/0c897d148a9bb2ac33b89c95c8d8e0862d662bc3?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Angry
+artist(s): 8Ball
+*****************************
+**********SONG*********
+9
+song name: Summer
+preview song: https://p.scdn.co/mp3-preview/73befb86ae183ca435a4df157671270983317416?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Angry
+artist(s): 8Ball
+*****************************
+**********SONG*********
+10
+song name: Scene Report
+preview song: https://p.scdn.co/mp3-preview/224ebe23ad090a85bc865ecadf719c4fbcb23a45?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Angry
+artist(s): 8Ball
+*****************************
+**********SONG*********
+11
+song name: What Do You Want?
+preview song: https://p.scdn.co/mp3-preview/8efeb457fd1568fb5e12fb61392e414032208a87?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Angry
+artist(s): 8Ball
+*****************************
+**********SONG*********
+12
+song name: Life Goes On
+preview song: https://p.scdn.co/mp3-preview/29223280c20990f29cdf6ca8cece5e694cebfb15?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Ten Toes Down
+artist(s): 8Ball
+*****************************
+**********SONG*********
+13
+song name: Paid Dues
+preview song: https://p.scdn.co/mp3-preview/464ff4d3f3ddd48af2cd528c75154a1e99399d47?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: In Our Lifetime
+artist(s): 8Ball
+*****************************
+**********SONG*********
+14
+song name: Bitch Get Down
+preview song: null
+album: Long Live The Pimp
+artist(s): Pimp C
+*****************************
+**********SONG*********
+15
+song name: Relax and Take Notes (feat. Notorious B.I.G. and Project Pat)
+preview song: https://p.scdn.co/mp3-preview/20fd633a30fb57c8c10365549e38ad0504f92675?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Ridin' High
+artist(s): 8Ball & MJG
+*****************************
+**********SONG*********
+16
+song name: Mr. Big
+preview song: https://p.scdn.co/mp3-preview/138064b744339597af15aec3d428a66105b7db14?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Comin Out Hard
+artist(s): 8Ball & MJG
+*****************************
+**********SONG*********
+17
+song name: Money On The Floor
+preview song: null
+album: Live From The Underground
+artist(s): Big K.R.I.T.
+*****************************
+**********SONG*********
+18
+song name: My Homeboy's Girlfriend
+preview song: https://p.scdn.co/mp3-preview/7b7deec2815a755ecb994f0f2a76700c34530fa1?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Lost
+artist(s): 8Ball
+*****************************
+**********SONG*********
+19
+song name: The Player Way (feat. 8Ball & MJG)
+preview song: https://p.scdn.co/mp3-preview/c84a23257470eb966968009f2351a2c4c30701ce?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Harlem World
+artist(s): Mase
+*****************************
+**********SONG*********
+0
+song name: Rainbow
+preview song: null
+album: Golden Hour
+artist(s): Kacey Musgraves
+*****************************
+**********SONG*********
+1
+song name: Rainbow
+preview song: null
+album: Rainbow
+artist(s): Kacey Musgraves
+*****************************
+**********SONG*********
+2
+song name: Praying
+preview song: https://p.scdn.co/mp3-preview/f5d8d2d7787d4c69c795dd6682477edd5a50aaaf?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Rainbow
+artist(s): Kesha
+*****************************
+**********SONG*********
+3
+song name: Over the Rainbow
+preview song: https://p.scdn.co/mp3-preview/de7440aca1caebbfebf68b55e6b1e59047fbb457?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: XXXTENTACION Presents: Members Only, Vol. 4
+artist(s): Cooliecut
+*****************************
+**********SONG*********
+4
+song name: Woman
+preview song: https://p.scdn.co/mp3-preview/b7759c3f7098d4c2f9312867df675caf638e1f8f?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Rainbow
+artist(s): Kesha
+*****************************
+**********SONG*********
+5
+song name: Rainbow in the Dark
+preview song: https://p.scdn.co/mp3-preview/be08d5080ffb8b217fc2beffcd582b19d708d2ff?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Holy Diver
+artist(s): Dio
+*****************************
+**********SONG*********
+6
+song name: Over the Rainbow
+preview song: https://p.scdn.co/mp3-preview/efa050a71295c8fb7e7809f48e67a171aef5704e?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Alone In Iz World
+artist(s): Israel Kamakawiwo'ole
+*****************************
+**********SONG*********
+7
+song name: Cocaine Jesus
+preview song: https://p.scdn.co/mp3-preview/4c80cc3affba7c89ef01aeeb23c76d6959e0bc30?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: RKS
+artist(s): Rainbow Kitten Surprise
+*****************************
+**********SONG*********
+8
+song name: Devil Like Me
+preview song: https://p.scdn.co/mp3-preview/5de0ff1cf0fa588440775840da4dd2fefd43fca5?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Seven + Mary
+artist(s): Rainbow Kitten Surprise
+*****************************
+**********SONG*********
+9
+song name: Rainbow
+preview song: https://p.scdn.co/mp3-preview/a2d3fbad42840bd0ea63efaa5e8f69f5e56e8df9?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Rainbow
+artist(s): Kesha
+*****************************
+**********SONG*********
+10
+song name: Keep Yourself Alive - Live at The Rainbow
+preview song: null
+album: Bohemian Rhapsody (The Original Soundtrack)
+artist(s): Queen
+*****************************
+**********SONG*********
+11
+song name: It's Called: Freefall
+preview song: https://p.scdn.co/mp3-preview/d8ddc6c5b63f24f04e23f89cb6f8844a17e4810a?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: How to: Friend, Love, Freefall
+artist(s): Rainbow Kitten Surprise
+*****************************
+**********SONG*********
+12
+song name: First Class
+preview song: https://p.scdn.co/mp3-preview/f049c8211da4a4809a4ac7dca7ac248893154ac2?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Seven + Mary
+artist(s): Rainbow Kitten Surprise
+*****************************
+**********SONG*********
+13
+song name: Lady Lie
+preview song: https://p.scdn.co/mp3-preview/c48028640fbd6afdf6a90929229b6c11434cb26d?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: RKS
+artist(s): Rainbow Kitten Surprise
+*****************************
+**********SONG*********
+14
+song name: Fever Pitch
+preview song: https://p.scdn.co/mp3-preview/aff7ef16e74f15017385e02f19b24079d1a6d360?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: How to: Friend, Love, Freefall
+artist(s): Rainbow Kitten Surprise
+*****************************
+**********SONG*********
+15
+song name: Rainbow Connection
+preview song: https://p.scdn.co/mp3-preview/52cb3bd3cb26bd4171c69dd3eef06c334a842de9?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Covers, Vol. 2
+artist(s): Sleeping At Last
+*****************************
+**********SONG*********
+16
+song name: All's Well That Ends
+preview song: https://p.scdn.co/mp3-preview/da3c22983f1d646f6154368646a75cd1b0a0906f?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: RKS
+artist(s): Rainbow Kitten Surprise
+*****************************
+**********SONG*********
+17
+song name: She's A Rainbow - Full Version / With Intro
+preview song: null
+album: More Hot Rocks (Big Hits & Fazed Cookies)
+artist(s): The Rolling Stones
+*****************************
+**********SONG*********
+18
+song name: Hide
+preview song: https://p.scdn.co/mp3-preview/2a5209b52fd83e3448f2f7234322d12e75ce35b0?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: How to: Friend, Love, Freefall
+artist(s): Rainbow Kitten Surprise
+*****************************
+**********SONG*********
+19
+song name: Seven
+preview song: https://p.scdn.co/mp3-preview/2979d2ff0bb0e83eb252360a9a2d3a8b641eb66f?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Seven + Mary
+artist(s): Rainbow Kitten Surprise
+*****************************
+**********SONG*********
+0
+song name: Crew (feat. Brent Faiyaz & Shy Glizzy)
+preview song: https://p.scdn.co/mp3-preview/d0dde15184d6cd06e09b3a50b033093ce5b2c5b1?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: At What Cost
+artist(s): GoldLink
+*****************************
+**********SONG*********
+1
+song name: Crew Love
+preview song: null
+album: Take Care (Deluxe)
+artist(s): Drake
+*****************************
+**********SONG*********
+2
+song name: Crew REMIX
+preview song: https://p.scdn.co/mp3-preview/ae56fa7c5b6a2188cabb8149117880470655ce9e?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Crew REMIX
+artist(s): GoldLink
+*****************************
+**********SONG*********
+3
+song name: (I Just) Died In Your Arms
+preview song: null
+album: The Best Of Cutting Crew
+artist(s): Cutting Crew
+*****************************
+**********SONG*********
+4
+song name: (I Just) Died In Your Arms
+preview song: null
+album: Broadcast
+artist(s): Cutting Crew
+*****************************
+**********SONG*********
+5
+song name: Motley Crew
+preview song: https://p.scdn.co/mp3-preview/b1adc8759112957a9b6378789d56c3bbfcd17778?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Nü Religion: HYENA
+artist(s): THEY.
+*****************************
+**********SONG*********
+6
+song name: Bring Your Whole Crew
+preview song: null
+album: Flesh Of My Flesh, Blood Of My Blood
+artist(s): DMX
+*****************************
+**********SONG*********
+7
+song name: Fame Is for Assholes (feat. Chiddy)
+preview song: https://p.scdn.co/mp3-preview/0fe4789da0faea5a906c341ceac18006f2bf05db?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Crew Cuts
+artist(s): Hoodie Allen
+*****************************
+**********SONG*********
+8
+song name: Long Night (feat. Chance the Rapper)
+preview song: https://p.scdn.co/mp3-preview/404dd44f226248fe4868eceb9b45a91250e8e6d5?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Crew Cuts
+artist(s): Hoodie Allen
+*****************************
+**********SONG*********
+9
+song name: My Crew
+preview song: https://p.scdn.co/mp3-preview/db56e791ee10b9e67eea8e75f4cea32dedfff0a0?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: 5 Reasons to Party
+artist(s): C-Trox
+*****************************
+**********SONG*********
+10
+song name: Crew
+preview song: null
+album: Side Tape
+artist(s): RAYE
+*****************************
+**********SONG*********
+11
+song name: Crew (feat. Brent Faiyaz & Shy Glizzy) - Lido Remix
+preview song: https://p.scdn.co/mp3-preview/556c1e97b693ae68b6de49559a65ba23e011bb07?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Crew (Remixes)
+artist(s): GoldLink
+*****************************
+**********SONG*********
+12
+song name: Red Clay (feat. Them Riverbank Boys)
+preview song: https://p.scdn.co/mp3-preview/999700a977cfe7e525d2823a931e680404d5e8ed?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Mud Boggin Crew
+artist(s): Jawga Boyz
+*****************************
+**********SONG*********
+13
+song name: The Best Crew
+preview song: https://p.scdn.co/mp3-preview/6ce8119768bbb865f1acf83fa4204b2d3b87ada7?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Best Crew
+artist(s): Tep No
+*****************************
+**********SONG*********
+14
+song name: Sweet Victory
+preview song: https://p.scdn.co/mp3-preview/59d18540ecdb415f15b808fd33b445ed3d40a6d7?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Charge: The Ultimate Stadium Organ Jock Jam Collection
+artist(s): Baseball Hockey Sports Crew
+*****************************
+**********SONG*********
+15
+song name: Sh-Boom
+preview song: null
+album: Hearts in Atlantis - Motion Picture Soundtrack
+artist(s): Floyd F. McRay
+*****************************
+**********SONG*********
+16
+song name: Me So Horny
+preview song: https://p.scdn.co/mp3-preview/58e420de62867a4b058d59ee3c9fb77adb49512a?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: As Nasty As They Wanna Be
+artist(s): 2 LIVE CREW
+*****************************
+**********SONG*********
+17
+song name: Crew Love
+preview song: null
+album: Take Care (Deluxe)
+artist(s): Drake
+*****************************
+**********SONG*********
+18
+song name: Casanova (feat. Skizzy Mars & G Eazy)
+preview song: https://p.scdn.co/mp3-preview/000342773e59c39964a76d6d2ca431e2a7819e46?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Crew Cuts
+artist(s): Hoodie Allen
+*****************************
+**********SONG*********
+19
+song name: Hoochie Mama
+preview song: https://p.scdn.co/mp3-preview/dc20e24be4373bd3d7365c8c10ccc63c85112470?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Goes To the Movies: Decade of Hits
+artist(s): 2 LIVE CREW
+*****************************
+**********MOVIE*********
+Title: Notebook
+Release Year: 2006
+IMDB Rating: 7.0
+**********MOVIE*********
+Title: Nemo
+Release Year: 1984
+IMDB Rating: 4.9
+**********MOVIE*********
+Title: Nemo
+Release Year: 1984
+IMDB Rating: 4.9
+**********MOVIE*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE*********
+Title: Scarface
+Release Year: 1983
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 81%
+Country of Production: USA
+Language: English, Spanish
+Plot: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Actors: Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+*****************************
+**********MOVIE*********
+Title: Nemo
+Release Year: 1984
+IMDB Rating: 4.9
+**********MOVIE*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********EVENT*********
+Name of the Venue: Times Union Center
+Venue Location: Albany
+Date of the Event: 2019-03-18T19:00:44
+*****************************
+**********EVENT*********
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-03-20T19:00:34
+*****************************
+**********EVENT*********
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-03-22T19:00:03
+*****************************
+**********EVENT*********
+Name of the Venue: Capitol One Arena
+Venue Location: Washington
+Date of the Event: 2019-03-25T19:00:46
+*****************************
+**********EVENT*********
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-03-26T19:00:53
+*****************************
+**********EVENT*********
+Name of the Venue: Quicken Loans Arena
+Venue Location: Cleveland
+Date of the Event: 2019-03-28T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: Mohegan Sun Arena
+Venue Location: Uncasville
+Date of the Event: 2019-03-30T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: Bell Centre
+Venue Location: Montréal
+Date of the Event: 2019-04-01T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-04-03T19:00:53
+*****************************
+**********EVENT*********
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-04-05T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-04-07T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-04-08T19:30:00
+*****************************
+**********EVENT*********
+Name of the Venue: Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-04-10T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Empire Polo Club
+Venue Location: Indio
+Date of the Event: 2019-04-12T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Enterprise Center
+Venue Location: Saint Louis
+Date of the Event: 2019-04-13T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio
+Date of the Event: 2019-04-14T19:00:29
+*****************************
+**********EVENT*********
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-04-15T03:30:00
+*****************************
+**********EVENT*********
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-04-17T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-04-20T23:59:00
+*****************************
+**********EVENT*********
+Name of the Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio
+Date of the Event: 2019-04-21T19:00:03
+*****************************
+**********EVENT*********
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-04-22T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Rogers Place
+Venue Location: Edmonton
+Date of the Event: 2019-04-25T19:00:16
+*****************************
+**********EVENT*********
+Name of the Venue: Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 2019-04-27T19:00:44
+*****************************
+**********EVENT*********
+Name of the Venue: Moda Center
+Venue Location: Portland
+Date of the Event: 2019-04-30T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: SAP Center
+Venue Location: San Jose
+Date of the Event: 2019-05-02T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-05-03T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: STAPLES Center
+Venue Location: Los Angeles
+Date of the Event: 2019-05-06T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2019-05-07T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-05-10T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: T-Mobile Arena
+Venue Location: Las Vegas
+Date of the Event: 2019-05-11T19:00:39
+*****************************
+**********EVENT*********
+Name of the Venue: Talking Stick Resort Arena
+Venue Location: Phoenix
+Date of the Event: 2019-05-14T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-05-17T19:00:26
+*****************************
+**********EVENT*********
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-05-19T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-05-21T19:00:49
+*****************************
+**********EVENT*********
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-05-23T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Smoothie King Center
+Venue Location: New Orleans
+Date of the Event: 2019-05-25T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-05-28T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-05-29T19:00:42
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-05-31T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-06-01T19:00:54
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-06-04T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-06-05T19:00:19
+*****************************
+**********EVENT*********
+Name of the Venue: Bridgestone Arena
+Venue Location: Nashville
+Date of the Event: 2019-06-07T19:00:31
+*****************************
+**********EVENT*********
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-06-08T19:00:12
+*****************************
+**********EVENT*********
+Name of the Venue: Spectrum Center
+Venue Location: Charlotte
+Date of the Event: 2019-06-10T19:00:43
+*****************************
+**********EVENT*********
+Name of the Venue: PPG Paints Arena
+Venue Location: Pittsburgh
+Date of the Event: 2019-06-12T19:00:18
+*****************************
+**********EVENT*********
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-06-14T19:00:49
+*****************************
+**********EVENT*********
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-06-15T19:00:28
+*****************************
+**********EVENT*********
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-06-18T19:00:58
+*****************************
+**********EVENT*********
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-06-19T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-06-21T19:00:04
+*****************************
+**********EVENT*********
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-06-22T19:00:41
+*****************************
+**********EVENT*********
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-06-24T19:00:19
+*****************************
+**********EVENT*********
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-06-26T19:00:13
+*****************************
+**********EVENT*********
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-06-29T19:00:25
+*****************************
+**********EVENT*********
+Name of the Venue: The Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-07-01T19:00:54
+*****************************
+**********EVENT*********
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-07-05T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Enterprise Center
+Venue Location: St. Louis
+Date of the Event: 2019-07-06T19:00:52
+*****************************
+**********EVENT*********
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-07-08T19:00:01
+*****************************
+**********EVENT*********
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-07-11T19:00:59
+*****************************
+**********EVENT*********
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-13T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-08-17T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-08-19T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-08-20T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-08-23T19:00:50
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-08-24T19:00:52
+*****************************
+**********EVENT*********
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-08-27T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-08-28T19:00:57
+*****************************
+**********EVENT*********
+Name of the Venue: Sportpaleis Antwerpen
+Venue Location: Antwerpen
+Date of the Event: 2019-08-30T19:00:59
+*****************************
+**********EVENT*********
+Name of the Venue: Lanxess Arena
+Venue Location: Köln
+Date of the Event: 2019-09-01T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: Stadthalle
+Venue Location: Vienna
+Date of the Event: 2019-09-03T19:00:56
+*****************************
+**********EVENT*********
+Name of the Venue: Barclaycard Arena
+Venue Location: Hamburg
+Date of the Event: 2019-09-05T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: O2 arena
+Venue Location: Praha 9
+Date of the Event: 2019-09-08T19:00:06
+*****************************
+**********EVENT*********
+Name of the Venue: Tauron Arena
+Venue Location: Kraków
+Date of the Event: 2019-09-09T19:00:36
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-09-11T19:00:55
+*****************************
+**********EVENT*********
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-14T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-15T19:00:12
+*****************************
+**********EVENT*********
+Name of the Venue: The SSE Hydro
+Venue Location: Glasgow
+Date of the Event: 2019-09-17T19:00:02
+*****************************
+**********EVENT*********
+Name of the Venue: FlyDSA Arena
+Venue Location: Sheffield
+Date of the Event: 2019-09-19T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-22T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-23T19:00:17
+*****************************
+**********EVENT*********
+Name of the Venue: Royal Arena
+Venue Location: Copenhagen
+Date of the Event: 2019-10-01T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Telenor Arena
+Venue Location: Oslo
+Date of the Event: 2019-10-03T19:00:26
+*****************************
+**********EVENT*********
+Name of the Venue: Hartwall Arena
+Venue Location: Hki
+Date of the Event: 2019-10-05T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: Ericsson Globe
+Venue Location: Stockholm
+Date of the Event: 2019-10-07T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Mercedes-Benz-Arena
+Venue Location: Berlin
+Date of the Event: 2019-10-10T19:00:43
+*****************************
+**********EVENT*********
+Name of the Venue: Hallenstadion
+Venue Location: Zürich
+Date of the Event: 2019-10-13T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Franklin Music Hall
+Venue Location: Philadelphia
+Date of the Event: 2019-02-23T19:00:24
+*****************************
+**********EVENT*********
+Name of the Venue: Tabernacle
+Venue Location: Atlanta
+Date of the Event: 2019-02-27T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: The Bomb Factory
+Venue Location: Dallas
+Date of the Event: 2019-03-03T19:00:08
+*****************************
+**********EVENT*********
+Name of the Venue: Diamond ballroom
+Venue Location: Oklahoma City
+Date of the Event: 2019-03-04T19:00:38
+*****************************
+**********EVENT*********
+Name of the Venue: Mesa Amphitheatre
+Venue Location: Mesa
+Date of the Event: 2019-03-06T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: Valley View Casino Center
+Venue Location: San Diego
+Date of the Event: 2019-03-07T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Bill Graham Civic Auditorium
+Venue Location: Sf
+Date of the Event: 2019-03-09T19:00:02
+*****************************
+**********EVENT*********
+Name of the Venue: Reno Events Center
+Venue Location: Reno
+Date of the Event: 2019-03-10T19:00:27
+*****************************
+**********SONG*********
+0
+song name: Crew (feat. Brent Faiyaz & Shy Glizzy)
+preview song: https://p.scdn.co/mp3-preview/d0dde15184d6cd06e09b3a50b033093ce5b2c5b1?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: At What Cost
+artist(s): GoldLink
+*****************************
+**********SONG*********
+1
+song name: Crew Love
+preview song: null
+album: Take Care (Deluxe)
+artist(s): Drake
+*****************************
+**********SONG*********
+2
+song name: Crew REMIX
+preview song: https://p.scdn.co/mp3-preview/ae56fa7c5b6a2188cabb8149117880470655ce9e?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Crew REMIX
+artist(s): GoldLink
+*****************************
+**********SONG*********
+3
+song name: (I Just) Died In Your Arms
+preview song: null
+album: The Best Of Cutting Crew
+artist(s): Cutting Crew
+*****************************
+**********SONG*********
+4
+song name: (I Just) Died In Your Arms
+preview song: null
+album: Broadcast
+artist(s): Cutting Crew
+*****************************
+**********SONG*********
+5
+song name: Motley Crew
+preview song: https://p.scdn.co/mp3-preview/b1adc8759112957a9b6378789d56c3bbfcd17778?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Nü Religion: HYENA
+artist(s): THEY.
+*****************************
+**********SONG*********
+6
+song name: Bring Your Whole Crew
+preview song: null
+album: Flesh Of My Flesh, Blood Of My Blood
+artist(s): DMX
+*****************************
+**********SONG*********
+7
+song name: Fame Is for Assholes (feat. Chiddy)
+preview song: https://p.scdn.co/mp3-preview/0fe4789da0faea5a906c341ceac18006f2bf05db?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Crew Cuts
+artist(s): Hoodie Allen
+*****************************
+**********SONG*********
+8
+song name: Long Night (feat. Chance the Rapper)
+preview song: https://p.scdn.co/mp3-preview/404dd44f226248fe4868eceb9b45a91250e8e6d5?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Crew Cuts
+artist(s): Hoodie Allen
+*****************************
+**********SONG*********
+9
+song name: My Crew
+preview song: https://p.scdn.co/mp3-preview/db56e791ee10b9e67eea8e75f4cea32dedfff0a0?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: 5 Reasons to Party
+artist(s): C-Trox
+*****************************
+**********SONG*********
+10
+song name: Crew
+preview song: null
+album: Side Tape
+artist(s): RAYE
+*****************************
+**********SONG*********
+11
+song name: Crew (feat. Brent Faiyaz & Shy Glizzy) - Lido Remix
+preview song: https://p.scdn.co/mp3-preview/556c1e97b693ae68b6de49559a65ba23e011bb07?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Crew (Remixes)
+artist(s): GoldLink
+*****************************
+**********SONG*********
+12
+song name: Red Clay (feat. Them Riverbank Boys)
+preview song: https://p.scdn.co/mp3-preview/999700a977cfe7e525d2823a931e680404d5e8ed?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Mud Boggin Crew
+artist(s): Jawga Boyz
+*****************************
+**********SONG*********
+13
+song name: The Best Crew
+preview song: https://p.scdn.co/mp3-preview/6ce8119768bbb865f1acf83fa4204b2d3b87ada7?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Best Crew
+artist(s): Tep No
+*****************************
+**********SONG*********
+14
+song name: Sweet Victory
+preview song: https://p.scdn.co/mp3-preview/59d18540ecdb415f15b808fd33b445ed3d40a6d7?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Charge: The Ultimate Stadium Organ Jock Jam Collection
+artist(s): Baseball Hockey Sports Crew
+*****************************
+**********SONG*********
+15
+song name: Sh-Boom
+preview song: null
+album: Hearts in Atlantis - Motion Picture Soundtrack
+artist(s): Floyd F. McRay
+*****************************
+**********SONG*********
+16
+song name: Me So Horny
+preview song: https://p.scdn.co/mp3-preview/58e420de62867a4b058d59ee3c9fb77adb49512a?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: As Nasty As They Wanna Be
+artist(s): 2 LIVE CREW
+*****************************
+**********SONG*********
+17
+song name: Crew Love
+preview song: null
+album: Take Care (Deluxe)
+artist(s): Drake
+*****************************
+**********SONG*********
+18
+song name: Casanova (feat. Skizzy Mars & G Eazy)
+preview song: https://p.scdn.co/mp3-preview/000342773e59c39964a76d6d2ca431e2a7819e46?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Crew Cuts
+artist(s): Hoodie Allen
+*****************************
+**********SONG*********
+19
+song name: Hoochie Mama
+preview song: https://p.scdn.co/mp3-preview/dc20e24be4373bd3d7365c8c10ccc63c85112470?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Goes To the Movies: Decade of Hits
+artist(s): 2 LIVE CREW
+*****************************
+**********SONG*********
+0
+song name: Sunflower - Spider-Man: Into the Spider-Verse
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Post Malone
+*****************************
+**********SONG*********
+1
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/561e89f54d6e333789baae4fb220713221e18f6c?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): Rex Orange County
+*****************************
+**********SONG*********
+2
+song name: Sunflower - Spider-Man: Into the Spider-Verse
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)
+artist(s): Post Malone
+*****************************
+**********SONG*********
+3
+song name: Sunflower (Remix) [with Swae Lee, Nicky Jam, and Prince Royce] - Remix
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)
+artist(s): Post Malone
+*****************************
+**********SONG*********
+4
+song name: Sunflower Feelings
+preview song: https://p.scdn.co/mp3-preview/6ce6afcad74346e9d8a0afe61df21d48904ed703?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower Feelings
+artist(s): Kuzu Mellow
+*****************************
+**********SONG*********
+5
+song name: Sunflower - Movie Version
+preview song: https://p.scdn.co/mp3-preview/5b6d51295b994a68b67ff35b97af7f3428781f44?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sierra Burgess is a Loser (Original Motion Picture Soundtrack)
+artist(s): Shannon Purser
+*****************************
+**********SONG*********
+6
+song name: Sunflower Seeds
+preview song: https://p.scdn.co/mp3-preview/71a3ab0d1ba47ca45e472a1b6e0cde45a678ccef?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower Seeds
+artist(s): Bryce Vine
+*****************************
+**********SONG*********
+7
+song name: Sunflower Seeds
+preview song: https://p.scdn.co/mp3-preview/71a3ab0d1ba47ca45e472a1b6e0cde45a678ccef?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower Seeds
+artist(s): Bryce Vine
+*****************************
+**********SONG*********
+8
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/649834dd58902e7d47d55dc16a3f2e73cc996482?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): Zach Farache
+*****************************
+**********SONG*********
+9
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/fa1d49b4950d68a9c294f639ba6dbd7b363fbfdf?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): Sara Farell
+*****************************
+**********SONG*********
+10
+song name: Sunflower Dance
+preview song: https://p.scdn.co/mp3-preview/c93293e689ca5bfcefc4124dcff34310a9d24928?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Jazz Joints
+artist(s): Trog'low
+*****************************
+**********SONG*********
+11
+song name: Sunflower - Synth Reprise
+preview song: https://p.scdn.co/mp3-preview/8eb87251fd44efe58168d8305d89b1b70b76f1d8?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sierra Burgess is a Loser (Original Motion Picture Soundtrack)
+artist(s): Allie X
+*****************************
+**********SONG*********
+12
+song name: Perks of Being a Sunflower
+preview song: https://p.scdn.co/mp3-preview/709705cff6db544068bb246874ec8863eaf1c63d?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Orange Earth
+artist(s): Soft Glas
+*****************************
+**********SONG*********
+13
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/eacbc6856d5e07d9feb337d7c48b62baf741b9fc?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sepia Is The New Orange
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG*********
+14
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/7f5567aa7c4cfd39c3ce97e65fd8a9bad447699a?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): NateWantsToBattle
+*****************************
+**********SONG*********
+15
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/1216b645366a6d5234dc01d56f591a434ae21ac9?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): Mrs Neglect
+*****************************
+**********SONG*********
+16
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/26f6250e57d3cef4e7af089b015887c7851da2ed?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Defy
+artist(s): Of Mice & Men
+*****************************
+**********SONG*********
+17
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/4c01787bd5fa75912f4e0fc336cbd034d2593eb2?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): Miss Fortune
+*****************************
+**********SONG*********
+18
+song name: Forever - Remastered 2009
+preview song: null
+album: Sunflower
+artist(s): The Beach Boys
+*****************************
+**********SONG*********
+19
+song name: China Cat Sunflower - Live at Portland Memorial Coliseum, Portland, OR 5/19/74
+preview song: https://p.scdn.co/mp3-preview/a9d8cad475c667ada646695a00c990c28646d593?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Pacific Northwest '73-'74: Believe it If You Need It (Live)
+artist(s): Grateful Dead
+*****************************
+**********MOVIE*********
+Title: Scarface
+Release Year: 1983
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 81%
+Country of Production: USA
+Language: English, Spanish
+Plot: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Actors: Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+*****************************
+**********MOVIE*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********SONG*********
+0
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG*********
+1
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG*********
+2
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG*********
+3
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG*********
+4
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG*********
+5
+song name: Scared of the Dark (Remix) [with Ty Dolla $ign and Ozuna, feat. XXXTENTACION] - Remix
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG*********
+6
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG*********
+7
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG*********
+8
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG*********
+9
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG*********
+10
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG*********
+11
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG*********
+12
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG*********
+13
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG*********
+14
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: A Rush Of Blood To The Head
+artist(s): Coldplay
+*****************************
+**********SONG*********
+15
+song name: The Other Side (with MAX & Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/a3c926a4a3a8876a61b09cd54ea343e876092321?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Greatest Showman: Reimagined
+artist(s): MAX
+*****************************
+**********SONG*********
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG*********
+17
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG*********
+18
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG*********
+19
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********EVENT*********
+Name of the Venue: Times Union Center
+Venue Location: Albany
+Date of the Event: 2019-03-18T19:00:44
+*****************************
+**********EVENT*********
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-03-20T19:00:34
+*****************************
+**********EVENT*********
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-03-22T19:00:03
+*****************************
+**********EVENT*********
+Name of the Venue: Capitol One Arena
+Venue Location: Washington
+Date of the Event: 2019-03-25T19:00:46
+*****************************
+**********EVENT*********
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-03-26T19:00:53
+*****************************
+**********EVENT*********
+Name of the Venue: Quicken Loans Arena
+Venue Location: Cleveland
+Date of the Event: 2019-03-28T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: Mohegan Sun Arena
+Venue Location: Uncasville
+Date of the Event: 2019-03-30T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: Bell Centre
+Venue Location: Montréal
+Date of the Event: 2019-04-01T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-04-03T19:00:53
+*****************************
+**********EVENT*********
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-04-05T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-04-07T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-04-08T19:30:00
+*****************************
+**********EVENT*********
+Name of the Venue: Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-04-10T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Empire Polo Club
+Venue Location: Indio
+Date of the Event: 2019-04-12T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Enterprise Center
+Venue Location: Saint Louis
+Date of the Event: 2019-04-13T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio
+Date of the Event: 2019-04-14T19:00:29
+*****************************
+**********EVENT*********
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-04-15T03:30:00
+*****************************
+**********EVENT*********
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-04-17T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-04-20T23:59:00
+*****************************
+**********EVENT*********
+Name of the Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio
+Date of the Event: 2019-04-21T19:00:03
+*****************************
+**********EVENT*********
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-04-22T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: Rogers Place
+Venue Location: Edmonton
+Date of the Event: 2019-04-25T19:00:16
+*****************************
+**********EVENT*********
+Name of the Venue: Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 2019-04-27T19:00:44
+*****************************
+**********EVENT*********
+Name of the Venue: Moda Center
+Venue Location: Portland
+Date of the Event: 2019-04-30T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: SAP Center
+Venue Location: San Jose
+Date of the Event: 2019-05-02T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-05-03T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: STAPLES Center
+Venue Location: Los Angeles
+Date of the Event: 2019-05-06T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2019-05-07T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-05-10T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: T-Mobile Arena
+Venue Location: Las Vegas
+Date of the Event: 2019-05-11T19:00:39
+*****************************
+**********EVENT*********
+Name of the Venue: Talking Stick Resort Arena
+Venue Location: Phoenix
+Date of the Event: 2019-05-14T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-05-17T19:00:26
+*****************************
+**********EVENT*********
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-05-19T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-05-21T19:00:49
+*****************************
+**********EVENT*********
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-05-23T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Smoothie King Center
+Venue Location: New Orleans
+Date of the Event: 2019-05-25T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-05-28T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-05-29T19:00:42
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-05-31T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-06-01T19:00:54
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-06-04T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-06-05T19:00:19
+*****************************
+**********EVENT*********
+Name of the Venue: Bridgestone Arena
+Venue Location: Nashville
+Date of the Event: 2019-06-07T19:00:31
+*****************************
+**********EVENT*********
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-06-08T19:00:12
+*****************************
+**********EVENT*********
+Name of the Venue: Spectrum Center
+Venue Location: Charlotte
+Date of the Event: 2019-06-10T19:00:43
+*****************************
+**********EVENT*********
+Name of the Venue: PPG Paints Arena
+Venue Location: Pittsburgh
+Date of the Event: 2019-06-12T19:00:18
+*****************************
+**********EVENT*********
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-06-14T19:00:49
+*****************************
+**********EVENT*********
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-06-15T19:00:28
+*****************************
+**********EVENT*********
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-06-18T19:00:58
+*****************************
+**********EVENT*********
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-06-19T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-06-21T19:00:04
+*****************************
+**********EVENT*********
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-06-22T19:00:41
+*****************************
+**********EVENT*********
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-06-24T19:00:19
+*****************************
+**********EVENT*********
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-06-26T19:00:13
+*****************************
+**********EVENT*********
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-06-29T19:00:25
+*****************************
+**********EVENT*********
+Name of the Venue: The Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-07-01T19:00:54
+*****************************
+**********EVENT*********
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-07-05T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Enterprise Center
+Venue Location: St. Louis
+Date of the Event: 2019-07-06T19:00:52
+*****************************
+**********EVENT*********
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-07-08T19:00:01
+*****************************
+**********EVENT*********
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-07-11T19:00:59
+*****************************
+**********EVENT*********
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-13T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-08-17T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-08-19T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-08-20T19:00:23
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-08-23T19:00:50
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-08-24T19:00:52
+*****************************
+**********EVENT*********
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-08-27T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-08-28T19:00:57
+*****************************
+**********EVENT*********
+Name of the Venue: Sportpaleis Antwerpen
+Venue Location: Antwerpen
+Date of the Event: 2019-08-30T19:00:59
+*****************************
+**********EVENT*********
+Name of the Venue: Lanxess Arena
+Venue Location: Köln
+Date of the Event: 2019-09-01T19:00:22
+*****************************
+**********EVENT*********
+Name of the Venue: Stadthalle
+Venue Location: Vienna
+Date of the Event: 2019-09-03T19:00:56
+*****************************
+**********EVENT*********
+Name of the Venue: Barclaycard Arena
+Venue Location: Hamburg
+Date of the Event: 2019-09-05T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: O2 arena
+Venue Location: Praha 9
+Date of the Event: 2019-09-08T19:00:06
+*****************************
+**********EVENT*********
+Name of the Venue: Tauron Arena
+Venue Location: Kraków
+Date of the Event: 2019-09-09T19:00:36
+*****************************
+**********EVENT*********
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-09-11T19:00:55
+*****************************
+**********EVENT*********
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-14T19:00:35
+*****************************
+**********EVENT*********
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2019-09-15T19:00:12
+*****************************
+**********EVENT*********
+Name of the Venue: The SSE Hydro
+Venue Location: Glasgow
+Date of the Event: 2019-09-17T19:00:02
+*****************************
+**********EVENT*********
+Name of the Venue: FlyDSA Arena
+Venue Location: Sheffield
+Date of the Event: 2019-09-19T19:00:27
+*****************************
+**********EVENT*********
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-22T19:00:11
+*****************************
+**********EVENT*********
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2019-09-23T19:00:17
+*****************************
+**********EVENT*********
+Name of the Venue: Royal Arena
+Venue Location: Copenhagen
+Date of the Event: 2019-10-01T19:00:37
+*****************************
+**********EVENT*********
+Name of the Venue: Telenor Arena
+Venue Location: Oslo
+Date of the Event: 2019-10-03T19:00:26
+*****************************
+**********EVENT*********
+Name of the Venue: Hartwall Arena
+Venue Location: Hki
+Date of the Event: 2019-10-05T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: Ericsson Globe
+Venue Location: Stockholm
+Date of the Event: 2019-10-07T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Mercedes-Benz-Arena
+Venue Location: Berlin
+Date of the Event: 2019-10-10T19:00:43
+*****************************
+**********EVENT*********
+Name of the Venue: Hallenstadion
+Venue Location: Zürich
+Date of the Event: 2019-10-13T19:00:30
+*****************************
+**********EVENT*********
+Name of the Venue: Franklin Music Hall
+Venue Location: Philadelphia
+Date of the Event: 2019-02-23T19:00:24
+*****************************
+**********EVENT*********
+Name of the Venue: Tabernacle
+Venue Location: Atlanta
+Date of the Event: 2019-02-27T19:00:00
+*****************************
+**********EVENT*********
+Name of the Venue: The Bomb Factory
+Venue Location: Dallas
+Date of the Event: 2019-03-03T19:00:08
+*****************************
+**********EVENT*********
+Name of the Venue: Diamond ballroom
+Venue Location: Oklahoma City
+Date of the Event: 2019-03-04T19:00:38
+*****************************
+**********EVENT*********
+Name of the Venue: Mesa Amphitheatre
+Venue Location: Mesa
+Date of the Event: 2019-03-06T19:00:07
+*****************************
+**********EVENT*********
+Name of the Venue: Valley View Casino Center
+Venue Location: San Diego
+Date of the Event: 2019-03-07T19:00:33
+*****************************
+**********EVENT*********
+Name of the Venue: Bill Graham Civic Auditorium
+Venue Location: Sf
+Date of the Event: 2019-03-09T19:00:02
+*****************************
+**********EVENT*********
+Name of the Venue: Reno Events Center
+Venue Location: Reno
+Date of the Event: 2019-03-10T19:00:27
+*****************************
+**********SONG*********
+0
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG*********
+1
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG*********
+2
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG*********
+3
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG*********
+4
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG*********
+5
+song name: Scared of the Dark (Remix) [with Ty Dolla $ign and Ozuna, feat. XXXTENTACION] - Remix
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG*********
+6
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG*********
+7
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG*********
+8
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG*********
+9
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG*********
+10
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG*********
+11
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG*********
+12
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG*********
+13
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG*********
+14
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: A Rush Of Blood To The Head
+artist(s): Coldplay
+*****************************
+**********SONG*********
+15
+song name: The Other Side (with MAX & Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/a3c926a4a3a8876a61b09cd54ea343e876092321?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Greatest Showman: Reimagined
+artist(s): MAX
+*****************************
+**********SONG*********
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG*********
+17
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG*********
+18
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG*********
+19
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG*********
+0
+song name: Sunflower - Spider-Man: Into the Spider-Verse
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Post Malone
+*****************************
+**********SONG*********
+1
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/561e89f54d6e333789baae4fb220713221e18f6c?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): Rex Orange County
+*****************************
+**********SONG*********
+2
+song name: Sunflower - Spider-Man: Into the Spider-Verse
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)
+artist(s): Post Malone
+*****************************
+**********SONG*********
+3
+song name: Sunflower (Remix) [with Swae Lee, Nicky Jam, and Prince Royce] - Remix
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)
+artist(s): Post Malone
+*****************************
+**********SONG*********
+4
+song name: Sunflower Feelings
+preview song: https://p.scdn.co/mp3-preview/6ce6afcad74346e9d8a0afe61df21d48904ed703?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower Feelings
+artist(s): Kuzu Mellow
+*****************************
+**********SONG*********
+5
+song name: Sunflower - Movie Version
+preview song: https://p.scdn.co/mp3-preview/5b6d51295b994a68b67ff35b97af7f3428781f44?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sierra Burgess is a Loser (Original Motion Picture Soundtrack)
+artist(s): Shannon Purser
+*****************************
+**********SONG*********
+6
+song name: Sunflower Seeds
+preview song: https://p.scdn.co/mp3-preview/71a3ab0d1ba47ca45e472a1b6e0cde45a678ccef?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower Seeds
+artist(s): Bryce Vine
+*****************************
+**********SONG*********
+7
+song name: Sunflower Seeds
+preview song: https://p.scdn.co/mp3-preview/71a3ab0d1ba47ca45e472a1b6e0cde45a678ccef?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower Seeds
+artist(s): Bryce Vine
+*****************************
+**********SONG*********
+8
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/649834dd58902e7d47d55dc16a3f2e73cc996482?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): Zach Farache
+*****************************
+**********SONG*********
+9
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/fa1d49b4950d68a9c294f639ba6dbd7b363fbfdf?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): Sara Farell
+*****************************
+**********SONG*********
+10
+song name: Sunflower Dance
+preview song: https://p.scdn.co/mp3-preview/c93293e689ca5bfcefc4124dcff34310a9d24928?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Jazz Joints
+artist(s): Trog'low
+*****************************
+**********SONG*********
+11
+song name: Sunflower - Synth Reprise
+preview song: https://p.scdn.co/mp3-preview/8eb87251fd44efe58168d8305d89b1b70b76f1d8?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sierra Burgess is a Loser (Original Motion Picture Soundtrack)
+artist(s): Allie X
+*****************************
+**********SONG*********
+12
+song name: Perks of Being a Sunflower
+preview song: https://p.scdn.co/mp3-preview/709705cff6db544068bb246874ec8863eaf1c63d?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Orange Earth
+artist(s): Soft Glas
+*****************************
+**********SONG*********
+13
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/eacbc6856d5e07d9feb337d7c48b62baf741b9fc?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sepia Is The New Orange
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG*********
+14
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/7f5567aa7c4cfd39c3ce97e65fd8a9bad447699a?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): NateWantsToBattle
+*****************************
+**********SONG*********
+15
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/1216b645366a6d5234dc01d56f591a434ae21ac9?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): Mrs Neglect
+*****************************
+**********SONG*********
+16
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/26f6250e57d3cef4e7af089b015887c7851da2ed?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Defy
+artist(s): Of Mice & Men
+*****************************
+**********SONG*********
+17
+song name: Sunflower
+preview song: https://p.scdn.co/mp3-preview/4c01787bd5fa75912f4e0fc336cbd034d2593eb2?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Sunflower
+artist(s): Miss Fortune
+*****************************
+**********SONG*********
+18
+song name: Forever - Remastered 2009
+preview song: null
+album: Sunflower
+artist(s): The Beach Boys
+*****************************
+**********SONG*********
+19
+song name: China Cat Sunflower - Live at Portland Memorial Coliseum, Portland, OR 5/19/74
+preview song: https://p.scdn.co/mp3-preview/a9d8cad475c667ada646695a00c990c28646d593?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Pacific Northwest '73-'74: Believe it If You Need It (Live)
+artist(s): Grateful Dead
+*****************************
+**********MOVIE*********
+Title: Scarface
+Release Year: 1983
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 81%
+Country of Production: USA
+Language: English, Spanish
+Plot: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Actors: Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********SONG*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG*********
+4
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG*********
+5
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG*********
+8
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG*********
+10
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG*********
+11
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG*********
+15
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: #90s Update
+artist(s): #90s Update
+*****************************
+**********SONG*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: PMJ Is For Lovers: The Love Song Collection
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=8858b1daab904ee1a1f1f2af4eec53c0
+album: I Want It That Way
+artist(s): Landon Austin & Julia Sheer
+*****************************

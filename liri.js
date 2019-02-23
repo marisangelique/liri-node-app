@@ -101,15 +101,7 @@ function concertThis(search){
 };
 
 //Movie search
-function rottenTomatoes (data) {
-    return data.Ratings.find(function (item) {
-       return item.Source === "Rotten Tomatoes";
-    });
-  }
 
-  function rottenTomatoesRating(data) {
-    return rottenTomatoes(data).Value;
-  }
 
 function movieThis(search){
     if (search === undefined){
@@ -153,6 +145,16 @@ function movieThis(search){
     })
 
 }
+function rottenTomatoes (data) {
+    return data.Ratings.find(function (item) {
+       return item.Source === "Rotten Tomatoes";
+    });
+  }
+
+  function rottenTomatoesRating(data) {
+    return rottenTomatoes(data).Value;
+  }
+
 
 function showThis(){
 	fs.readFile('random.txt', 'utf8', function(err, data){
@@ -163,6 +165,7 @@ function showThis(){
         exploit(dataArr[0], dataArr[1]);
 	});
 }
+
 
 
 //Go back and edit the search criteria
